@@ -104,11 +104,8 @@ The project is deployed at the following link...
 
 👤 **Author2**
 
-- GitHub: 
-- Twitter: 
-- LinkedIn: 
-
-
+- GitHub: [@melkamu12](https://github.com/melkamu12)
+- LinkedIn: [melkamu-almawu](https://www.linkedin.com/in/melkamu-almawu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
